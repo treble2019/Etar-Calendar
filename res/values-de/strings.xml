@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
  --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_label" msgid="5452708708398908131">"Kalender"</string>
+    <string name="app_label" msgid="5452708708398908131">"Calender"</string>
     <string name="when_label" msgid="894636567327261599">"Wann"</string>
     <string name="today" msgid="8577375020252453006">"Heute"</string>
     <string name="tomorrow" msgid="614434811813859237">"Morgen"</string>
