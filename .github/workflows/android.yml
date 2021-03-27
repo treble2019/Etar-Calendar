@@ -1,8 +1,7 @@
 name: Do Android CI with Gradle
 
-on:
-  pull_request:
-    branches: [ master ]
+on: [push, pull_request]
+
 
 jobs:
   build:
