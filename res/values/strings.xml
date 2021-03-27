@@ -780,7 +780,7 @@
     <string name="preferences_list_add_offline_button">Add calendar</string>
     <string name="preferences_list_add_offline_name">Name</string>
     <string name="preferences_list_add_offline_cancel">Cancel</string>
-    <string name="preferences_menu_about">About Etar</string>
+    <string name="preferences_menu_about">About Calendar</string>
 
     <string name="offline_account_name">Offline Calendar</string>
 
